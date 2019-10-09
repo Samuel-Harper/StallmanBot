@@ -6,12 +6,7 @@
 
 To install the discord library without full voice support, you can just run the following command:
 
-    # Linux/OS X
-    python3 -m pip install -U discord.py
-
-    # Windows
-    py -3 -m pip install -U discord.py
-    
+    python3 -m pip install -U discord.py  
 After that create a bot on the Discord Developer Portal and copy the token into the code where it says 
 ```python
 client.run('TOKEN')
