@@ -1,5 +1,5 @@
 # StallmanBot
-## A basic python discord bot that spams the GNU/Linux copypasta when someone says 'Linux' and not 'GNU/Linux'.
+#### A basic python discord bot that spams the [GNU/Linux copypasta](https://wiki.installgentoo.com/index.php/Interjection) when someone says 'Linux' and not 'GNU/Linux'.
 
 # Setup
 **Python 3.5.3 or higher is required**
